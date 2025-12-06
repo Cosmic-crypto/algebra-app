@@ -41,6 +41,14 @@ Output:
 Simplified Expression: 5x
 ```
 
+### Expression solving with substitution
+Enter an equation like `x + 19` specify vars and replacment for these vars like: `x` `5`
+
+Output:
+```
+24
+```
+
 ### ✔ GUI-based  
 Uses **CustomTkinter** with light/dark mode respect.
 
